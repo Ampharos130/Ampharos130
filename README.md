@@ -10,7 +10,7 @@
 - 💬 Ask me about coding or anime
 - 📫 How to reach me: timmy.do130@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a twin
+- ⚡ Fun fact: I'm a twin and a big fan of Kingdom Hearts
 
 ## Languages Used 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ampharos130&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

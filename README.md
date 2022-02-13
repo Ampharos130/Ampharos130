@@ -1,6 +1,5 @@
 ### Welcome to my github profile! 👋
 
-![Kh3_Chess](https://user-images.githubusercontent.com/95107042/153737615-43b78c40-f1d5-48d2-b9db-395b4341dac1.gif)
 
 
 - 🔭 I’m currently working on improving my coding skills with [General Assembly](https://generalassemb.ly/)

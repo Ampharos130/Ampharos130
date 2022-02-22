@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I'm a twin and a big fan of Kingdom Hearts
 
 ## Languages Used 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ampharos130&layout=compact)](https://github.com/ampharos130/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ampharos130&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ampharos130&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working on improving my coding skills with [General Assembly](https://generalassemb.ly/)
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on a Discord Bot
 - 👯 I’m looking to collaborate on with other developers
 - 🤔 I’m looking for help with becoming proficient at thinking like a programmer
 - 💬 Ask me about coding or anime

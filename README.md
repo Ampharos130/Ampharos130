@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently moving out and about so will a little inactive until Im settled
+- 🔭 I’m currently working with Modivcare
 - 👯 I’m looking to collaborate on with other developers
 - 🤔 I’m looking for help with becoming proficient at thinking like a programmer
 - 💬 Ask me about coding or anime
